@@ -1,0 +1,48 @@
+﻿body
+{
+}
+#phanGiua img {
+    width: 100%;
+    margin-top: 94px;
+}
+
+#phanGiua a {
+    border: 1px;
+    border-radius: 47px;
+    background-color: #23272a;
+    color: white;
+    padding: 29px;
+    font-size: 19px;
+}
+
+#phanGiua h3 {
+    line-height: 120%;
+    font-family: var;
+    font-weight: 500;
+    font-size: 32px;
+    font-size: clamp(18px,3vw,32px);
+    margin-bottom: 52px;
+}
+
+#phanGiua .col-md-2 {
+    width: 46.666667%;
+    text-align: center;
+    padding: 56px;
+    background-color: #f6f6f6;
+    border-radius: 30px;
+    overflow: hidden;
+}
+
+.chinhPhangiuaD {
+    margin-left: 22px;
+    margin-top: 237px;
+}
+
+.chinhPhangiua2D {
+    margin-top: -211px;
+}
+
+.chinhPhangiua3D {
+    margin-top: 25px;
+    margin-left: 26px;
+}

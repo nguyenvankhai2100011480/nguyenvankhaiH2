@@ -1,0 +1,89 @@
+﻿body
+{
+}
+.boNenC {
+    width: 103%;
+    border: none;
+    background-color: #404eed;
+    height: 407px;
+    background-image: url(./Images/C3.SVG);
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-bottom: 115px;
+}
+
+.boNenC1 {
+    width: 103%;
+    border: none;
+    background-color: white;
+    margin-bottom: 115px;
+}
+
+.anhNen2c {
+    display: block;
+    z-index: 0;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    display: block;
+    height: auto;
+    width: auto;
+    max-width: none;
+    margin-left: -1042px;
+}
+
+.anhNen3c {
+    position: absolute;
+    display: block;
+    bottom: 0;
+    left: 50%;
+    margin-left: 608px;
+}
+
+.Timkiem {
+    width: 249%;
+    margin-left: 88px;
+}
+
+.rowtimkiem {
+    text-align: center;
+    margin: 0 auto;
+}
+
+#phanGiua img {
+    width: 102%;
+    border-radius: 17px;
+}
+
+#phanGiua .col-md-2 {
+    width: 75.666667%;
+    padding: 11px;
+    margin-bottom: 11px;
+    background-color: #999cb585;
+}
+
+#phanGiua .col-md-1 {
+    width: 133.333333%;
+    padding: 21px;
+}
+
+.chinhh1N {
+    padding-left: 33px;
+    margin-bottom: 50px;
+    color: white;
+}
+
+.containerN {
+    margin-bottom: 166px;
+}
+
+.chinhh1N2 {
+    padding-left: 33px;
+    margin-bottom: 21px;
+}
+
+.chinhPmenuN {
+    font-size: 20px;
+    padding-left: 53px;
+    margin: 0 0 39px;
+}

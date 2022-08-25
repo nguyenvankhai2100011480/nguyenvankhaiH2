@@ -1,0 +1,278 @@
+﻿
+body{
+}
+.container-fluid {
+    padding: 0;
+    overflow-x: hidden;
+}
+
+.Menuchinhindex1 {
+    position: relative;
+    z-index: 1001;
+}
+
+.Menuchinhindex2 {
+    z-index: 1000;
+    position: absolute;
+    left: 526px;
+    top: 182px;
+}
+.Menuchinhindex2dowload {
+    z-index: 1000;
+    position: absolute;
+    left: 322px;
+    top: 173px;
+}
+.Menuchinhindex3 {
+    z-index: 0;
+}
+
+.navbar img {
+    max-height: 100%;
+}
+
+.boNen {
+    width: 103%;
+    border: none;
+    background-color: #404eed;
+    height: 642px;
+    background-image: url(../Images/anhMenu1.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-bottom: 115px;
+}
+.boNenDowload {
+    width: 103%;
+    border: none;
+  
+    height: 642px;
+   
+ 
+    margin-bottom: 115px;
+}
+.phantunho {
+    margin-top: 11px;
+    text-align: center;
+    font-size: 16px;
+    line-height: 140%;
+    font-weight: 600;
+}
+
+.logo {
+    margin-top: 11px;
+    margin-right: 110px;
+}
+
+.anhNen {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+    color: white;
+}
+
+.chinhchumenu {
+    text-align: center;
+    width: 43%;
+}
+
+.chinhh1 {
+    padding-left: 33px;
+    margin-bottom: 21px;
+    color: white;
+}
+
+.chinhPmenu {
+    font-size: 20px;
+    color: white;
+    padding-left: 53px;
+}
+
+#menu h1 {
+    font-size: 56px;
+    font-family: var;
+    font-weight: 800;
+}
+
+.anhNen2 {
+    display: block;
+    z-index: 0;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    display: block;
+    height: auto;
+    width: auto;
+    max-width: none;
+    margin-left: -1030px;
+}
+
+.anhNen3 {
+    position: absolute;
+    display: block;
+    bottom: 0;
+    left: 50%;
+    margin-left: 370px;
+}
+
+.nutTrangtaive {
+    margin-top: 24px;
+    margin-right: 34px;
+    border-radius: 28px;
+    font-size: 20px;
+    padding: 16px 32px;
+    background-color: white;
+}
+
+.nutDEN {
+    margin-top: 11px;
+    border-radius: 28px;
+    font-size: 20px;
+    padding: 16px 32px;
+    background-color: black;
+    color: white;
+}
+
+.cachLe90 {
+    
+    margin-bottom: 139px;
+}
+
+#phanGiua h1 {
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 120%;
+    font-family: var;
+}
+
+#phanGiua p {
+    font-size: 20px;
+    font-size: clamp(16px,2vw,20px);
+    line-height: 1.625;
+}
+
+.h1Phangiua {
+    padding-left: 182px;
+    margin-right: 31px;
+}
+
+.pPhangiua {
+    margin-top: 20px;
+    padding-left: 178px;
+}
+
+.ChinhchuPhangiua {
+    text-align: center;
+}
+
+.nutXanh {
+    margin-top: 24px;
+    margin-right: 34px;
+    border-radius: 28px;
+    font-size: 20px;
+    padding: 16px 32px;
+    background-color: #5865f2;
+    color: white;
+}
+
+.mauDen {
+    background-color: #222;
+    width: 104%;
+}
+
+#id ul li {
+    list-style: none;
+}
+
+.DuongKe {
+    width: 100%;
+    height: 1px;
+    margin-bottom: 32px;
+    background-color: #5865f2;
+}
+
+.Boduongke {
+    border: none;
+    margin-bottom: 0;
+    width: 103.8%;
+}
+
+#phanCuoi ul {
+    list-style: none;
+    color: #5865f2;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+#phanCuoi li {
+    font-size: 16px;
+    line-height: 24px;
+    list-style: none;
+}
+
+.cahDong {
+    padding-top: 79px;
+}
+
+#phanCuoi a {
+    color: white;
+    text-decoration: none;
+}
+
+#phanCuoi h2 {
+    color: #5865f2;
+    font-family: var;
+    font-weight: 800;
+    line-height: 95%;
+    text-transform: uppercase;
+    text-rendering: geometricPrecision;
+    margin-top: 76px;
+}
+
+.anhicon {
+    width: 54%;
+}
+
+.col11 {
+    padding: 0;
+    width: 25%;
+}
+
+.col12 {
+    margin-left: -48px;
+}
+
+.col13 {
+    margin-left: -59px;
+}
+
+.col14 {
+    margin-left: -64px;
+}
+.colDow {
+    width: 65%;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+.cop1 {
+    width: 36%;
+    margin-left: -79px;
+}
+.colp {
+    font-size: 16px;
+    line-height: 24px;
+    color:white;
+}
+.nutXanhtaive {
+    margin-top: 24px;
+    margin-right: 34px;
+    border-radius: 28px;
+    font-size: 20px;
+    padding: 16px 32px;
+    background-color: #5865f2;
+    color: #fff;
+}

@@ -1,0 +1,90 @@
+﻿body
+{
+}
+.boNenS {
+    width: 103%;
+    border: none;
+    background-color: #5865f2;
+    height: auto;
+    margin-bottom: 115px;
+}
+
+#giua li {
+    font-size: 20px;
+    font-size: clamp(16px,2vw,20px);
+    line-height: 1.625;
+}
+
+.chinhTrens {
+    margin: 0 auto;
+    margin-top: 149px;
+}
+
+#giua h1 {
+    color: white;
+}
+
+#giua p {
+    font-size: clamp(16px,2vw,22px);
+    line-height: 140%;
+    color: white;
+    margin: 26px 0 22px;
+}
+
+.mauXam {
+    background-color: #f6f6f6;
+}
+
+#phanGiua h2 {
+    font-size: 40px;
+    font-size: clamp(20px,4vw,40px);
+    font-weight: 800;
+    line-height: 95%;
+    text-transform: uppercase;
+    font-family: inherit;
+    text-rendering: geometricPrecision;
+}
+
+#phanGiua col-md-12 {
+    width: 110%;
+}
+
+#phanGiua .col-md-3 {
+    width: 50%;
+    padding-right: 119px;
+    margin-top: 56px;
+}
+
+#phanGiua h3 {
+    font-weight: 500;
+    font-size: 32px;
+    font-size: clamp(18px,3vw,32px);
+}
+
+.NguyenTat {
+    margin-bottom: 161px;
+    height: 1054px;
+}
+
+#phanGiua ul {
+    list-style: none;
+}
+
+#phanGiua li {
+    width: 81%;
+    margin-bottom: 15px;
+}
+
+#phanGiua a {
+    font-size: 21px;
+    color: #00b0f4;
+}
+
+.cachleS {
+    margin-bottom: 196px;
+    padding-right: 169px;
+}
+
+.cachleS2 {
+    margin-bottom: 196px;
+}

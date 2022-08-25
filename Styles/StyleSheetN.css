@@ -1,0 +1,132 @@
+﻿body
+{
+}
+.myVideo {
+    position: absolute;
+    top: 88%;
+    left: 53%;
+    min-height: 150%;
+    min-width: 140%;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    width: auto;
+    height: auto;
+}
+
+.pMenuNitro {
+    margin: 0 0 63px;
+    width: 91%;
+}
+
+.chinhchumenuNitro {
+    width: 43%;
+    font-size: 20px;
+    color: white;
+}
+
+.Menuchinhindex2Nitro {
+    z-index: 1000;
+    position: absolute;
+    left: 439px;
+    top: 182px;
+}
+
+#menu .col-md-6 {
+    width: 85%;
+}
+
+.boNennitro {
+    width: 103%;
+    border: none;
+    height: 700px;
+    margin-bottom: 115px;
+}
+
+.chinhVideo {
+    position: absolute;
+    top: 0;
+    left: 0;
+    overflow: hidden;
+    z-index: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#phanGiua .row {
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom: 122px;
+}
+
+#phanGiua .col-md-2 {
+    width: 30.666667%;
+    margin-bottom: 68px;
+    margin: 10px;
+}
+
+#phanGiua .col-md-12 {
+    padding-right: 54px;
+    padding-bottom: 54px;
+    padding-left: 54px;
+}
+
+.N1 {
+    background: linear-gradient(142.53deg,#00a295,#26e8f4 98.75%),#3dcda7;
+    height: 273px;
+    border-radius: 15px;
+    padding: 21px;
+    color: white;
+}
+
+.N2 {
+    background: linear-gradient(321.82deg,#21f2ff,#4181ff 59.22%,#4475ff 98.02%),#7196ff;
+    height: 273px;
+    border-radius: 15px;
+    padding: 21px;
+    color: white;
+}
+
+.N3 {
+    background: linear-gradient(138.46deg,#3e70ff 1.48%,#9a98ff 98.75%),#ff73fa;
+    height: 273px;
+    border-radius: 15px;
+    padding: 21px;
+    color: white;
+}
+
+.N4 {
+    background: linear-gradient(141.85deg,#7e7bff,#ff73fa);
+    height: 273px;
+    border-radius: 15px;
+    padding: 21px;
+    color: white;
+}
+
+.N5 {
+    background: linear-gradient(141.48deg,#f837ee 1.35%,#ffcd4b);
+    height: 273px;
+    border-radius: 15px;
+    padding: 21px;
+    color: white;
+}
+
+.N6 {
+    background: linear-gradient(321.73deg,#ffcd4b -1.09%,#ee6315 100.65%);
+    height: 273px;
+    border-radius: 15px;
+    padding: 21px;
+    color: white;
+}
+
+#phanGiua h2 {
+    font-size: clamp(20px,4vw,40px);
+    font-family: var(--font-headline);
+    font-weight: 800;
+    line-height: 95%;
+    text-transform: uppercase;
+}
+
+.mauXanhNitro {
+    background: linear-gradient(90deg,#8ea1e1,#7289da);
+    margin: 0;
+}
